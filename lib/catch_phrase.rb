@@ -1,4 +1,10 @@
+#CATCH PHRASE
+
+=begin
+outputs Mario's famous catch phrase
+'It's-a me, Mario!'
+=end
+
 def catch_phrase
-  phrase="It's-a me, Mario!"
-  puts phrase
+  puts "It's-a me, Mario!"
 end
