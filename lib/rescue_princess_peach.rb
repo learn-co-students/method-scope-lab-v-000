@@ -6,6 +6,5 @@ outputs status
 =end
 
 def rescue_princess_peach
-  status = "Hooray! Mario has rescued Princess Peach."
-  puts status
+  puts status = "Hooray! Mario has rescued Princess Peach."
 end
