@@ -4,13 +4,9 @@ def rescue_princess_peach
 end
 
 
-
+#outputs a message and sets a variable, status, that is not available outside of this method    
 
 ## Comment the below back in to see method scope in action!
 
-# rescue_princess_peach
-# puts status
-
-
-
-
+#rescue_princess_peach
+#puts status
