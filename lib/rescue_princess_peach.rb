@@ -10,7 +10,4 @@ end
 
 # rescue_princess_peach
 # puts status
-
-
-
-
+# 'status' could be set outside the method to avoid invalid local NameError
