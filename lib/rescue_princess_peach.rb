@@ -11,6 +11,8 @@ end
 # rescue_princess_peach
 # puts status
 
+#we won't be able to access this variable outside of the method
+
 
 
 
