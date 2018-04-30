@@ -1,4 +1,5 @@
 require "spec_helper"
+require "lib/catch_phrase.rb"
 
 describe "#catch_phrase" do 
   it "puts out a catch phrase" do 
